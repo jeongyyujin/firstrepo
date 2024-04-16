@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>mini_project</name>
+=======
+	<name>GitTest01</name>
+>>>>>>> 38b30fe39dda1b409b0099cb09c5195f9db03be5
 	<comment></comment>
 	<projects>
 	</projects>
